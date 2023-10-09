@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "ca044e325eef54d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9cc282b4a0fbc21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee83083a2c0f1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainstorm aparte stukjes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f185994b5304c7bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e604a9d4983dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc7f6b3adcab8d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "debd6369164d57a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35d275ea7335f74f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34fa7627f8809a23",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b9a8d7c3efacce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9437b0061f2a4c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brainstorm aparte stukjes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9af1b1869eb6eee4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Brainstorm aparte stukjes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea1f516134d70da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea566bd05a4eaeff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brainstorm aparte stukjes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ee83083a2c0f1ee",
+  "lastOpenFiles": [
+    "The Curse of Eternal Shadow.md",
+    "Brainstorm aparte stukjes.md",
+    "Verhaal.md",
+    "Brainstorm.md",
+    "Opdracht uitleg.md",
+    "Overzicht eindes en verhaalstukjes.md"
+  ]
+}
