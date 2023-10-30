@@ -1,5 +1,4 @@
-22 verhaalstukjes en 4 eindes..
-Eindes: 
+Soorten eindes: 
 1. doodgegaan bij een battle
 2. turn back bij een battle
 3. cure gevonden, niet teruggeven
@@ -50,7 +49,7 @@ Hugging the shadows cast by the glowing crystals, you move silently, your every 
 	Walk to the next room: 12
 	Try and catch the fireflies: 11
 
-11: With a twinkle of curiosity, you resolve to capturing these enigmatic fireflies. In the depths of your pouch you come across an empty potion bottle, its size seemingly tailored for the task at hand. After several deft attempts, you successfully ensnare a substantial gathering of the radiant insects within the confines of the bottle. With your newfound trophy in hand, you turn your attention to the room itself. Amidst the glimmering crystals and the mesmerizing dance of fireflies, your eyes fall upon a cryptic inscription etched into one of the walls. The inscription reads: "INPUT TEXT." You stand in contemplative silence, the words seeming to pulse with latent significance. Could this be about the sinister curse spoken of by the desperate man?
+11: With a twinkle of curiosity, you resolve to capturing these enigmatic fireflies. In the depths of your pouch you come across an empty potion bottle, its size seemingly tailored for the task at hand. After several deft attempts, you successfully ensnare a substantial gathering of the radiant insects within the confines of the bottle. With your newfound trophy in hand, you turn your attention to the room itself. Amidst the glimmering crystals and the mesmerizing dance of fireflies, your eyes fall upon a cryptic inscription etched into one of the walls. The inscription reads: "The curse's mark endures, its malevolence unyielding; time alone shall not cleanse the stain." You stand in contemplative silence, the words seeming to pulse with latent significance. Could this be about the sinister curse spoken of by the desperate man?
 	continue: 12
 
 12: As you step into the new chamber, your attention is drawn to a sizable, furry form sprawled upon the rugged terrain. Its back rises and falls rhythmically, each breath a deliberate motion.
