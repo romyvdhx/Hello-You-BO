@@ -61,7 +61,7 @@ As the last spider writhes in its final moments, you take a moment to catch your
 14: Carefully assessing the situation, you realize that a direct confrontation with this beast may be unwise. Your instincts guide you to employ a more cunning approach. You watch the monster's rhythmic breathing for a moment, timing your movements with the gentle rise and fall of its back. With nimble precision, you step softly, shifting your weight silently from one foot to the other. Each calculated movement is made with the utmost care to avoid creating any sound that might alert the beast. Your heart pounds as you make your way around the perimeter of the chamber, ever so gradually inching closer to the next room while maintaining a keen awareness of the creature's slumbering form. As you navigate the treacherous path, your patience and dexterity pay off, and you manage to slip past the creature undetected. 
 	continue: 15
 
-15: Your character enters a dimly lit chamber deep within the dungeon. At the far end of the room, they spot a lone human, dressed in tattered clothes and bearing a faint resemblance to one of the villagers they saved from the monster attack. Startled, the human raises a shaky hand and calls out: "Who goes there? Friend or foe?"
+15: You enter a dimly lit chamber deep within the dungeon. At the far end of the room, you spot a lone human, dressed in tattered clothes and bearing a faint resemblance to one of the villagers you saved from the monster attack. Startled, the human raises a shaky hand and calls out: "Who goes there? Friend or foe?"
 	Identify yourself as the savior of the village: 16
 	Remain silent: 17
 
