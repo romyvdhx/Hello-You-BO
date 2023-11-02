@@ -4,7 +4,7 @@ Soorten eindes:
 3. cure gevonden, niet teruggeven
 4. cure gevonden, wel teruggeven
 
-1: A man approaches you: "Ah, name, what a fortuitous encounter! Rumors of your valor in rescuing an entire village from the clutches of a fearsome dragon have reached my ears. Your reputation precedes you, and I find myself in desperate need of someone of your caliber. You see, my daughter is afflicted by a grave ailment, a curse that has plagued her since birth, and it now threatens to consume her entirely. There exists a remedy, hidden deep within a foreboding dungeon. Eons ago there was a battle between two formidable witches and few have dared to tread upon the threshold of this accursed cavern since. Would you consider embarking on a perilous quest to retrieve this cure for me?"
+1: A man approaches you: "Ah, playerName, what a fortuitous encounter! Rumors of your valor in rescuing an entire village from the clutches of a fearsome dragon have reached my ears. Your reputation precedes you, and I find myself in desperate need of someone of your caliber. You see, my daughter is afflicted by a grave ailment, a curse that has plagued her since birth, and it now threatens to consume her entirely. There exists a remedy, hidden deep within a foreboding dungeon. Eons ago there was a battle between two formidable witches and few have dared to tread upon the threshold of this accursed cavern since. Would you consider embarking on a perilous quest to retrieve this cure for me?"
 	_If yes_: 3
 	_If no_: 2  
 
@@ -100,7 +100,7 @@ As the last spider writhes in its final moments, you take a moment to catch your
 25: With the creature vanquished, you find a moment to explore the room. Your gaze falls upon a small doorway, and beyond its threshold, a brilliant blue glimmer beckons. As you approach, a breathtaking revelation unfolds: a remarkable plant with a golden stem and leaves resembling tiny dewdrops, each one filled with a deep blue liquid that shimmers like the cosmos itself. There's no mistaking it; before you stands Luminara's Tear.
 	continue: 26
 
-26: You approach the plant with a slow and deliberate pace, captivated by its exquisite appearance. Gently, you pluck the glistening dewdrops and store them in your pouch. As you retrace your steps, exiting the dungeon, you encounter the man standing outside the entrance, eagerly awaiting your return. The man, curiousity twinkling in his eyes, asks: "Have you succeeded? Did you bring me the cure?"
+26: You approach the plant with a slow and deliberate pace, captivated by its exquisite appearance. Gently, you pluck the glistening dewdrops and store them in your pouch. As you retrace your steps, exiting the dungeon, you encounter the man standing outside the entrance, eagerly awaiting your return. The man, curiosity twinkling in his eyes, asks: "Have you succeeded? Did you bring me the cure?"
 	give him the cure: 27
 	don't give him the cure: 28
 

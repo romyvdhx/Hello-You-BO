@@ -308,7 +308,7 @@ let storyParts =
         isEnding:false
     },
     {
-        text:"You approach the plant with a slow and deliberate pace, captivated by its exquisite appearance. Gently, you pluck the glistening dewdrops and store them in your pouch. As you retrace your steps, exiting the dungeon, you encounter the man standing outside the entrance, eagerly awaiting your return. The man, curiousity twinkling in his eyes, asks: \"Have you succeeded? Did you bring me the cure?\"",
+        text:"You approach the plant with a slow and deliberate pace, captivated by its exquisite appearance. Gently, you pluck the glistening dewdrops and store them in your pouch. As you retrace your steps, exiting the dungeon, you encounter the man standing outside the entrance, eagerly awaiting your return. The man, curiosity twinkling in his eyes, asks: \"Have you succeeded? Did you bring me the cure?\"",
         question:"a. hand him the cure \nb. don't give him the cure \n",
         answers:[
             {
@@ -332,3 +332,59 @@ let storyParts =
     }
 ];
 
+let replay = true;
+
+while(replay == true)
+{
+    let validReplayAnswer = false;
+    let nextPartAnswer = 0;
+    let nextPart = 0;
+    while(storyParts[nextPart].isEnding == false)
+    {
+        let validAnswer = false;
+        console.log(storyParts[nextPart].text);
+        let playerAnswer = input.question(storyParts[nextPart].question);
+        console.log(playerAnswer);
+        for(let i = 0; i < storyParts[nextPart].answers.length; i++)
+        {
+            if(storyParts[nextPart].answers[i].answer == playerAnswer)
+            {
+                validAnswer = true;
+                nextPartAnswer = storyParts[nextPart].answers[i].nextPart;
+            }
+        }
+        if(validAnswer == true)
+        {
+            nextPart = nextPartAnswer;
+        } else
+        {
+            let validAnswers = "You can only answer with ";
+            for(let i = 0; i < storyParts[nextPart].answers.length; i++)
+            {
+                if(i > 0)
+                {
+                    validAnswers = validAnswers + " or ";
+                }
+                validAnswers = validAnswers + storyParts[nextPart].answers[i].answer;
+            }
+            console.log(validAnswers);
+        }
+    }
+    console.log(storyParts[nextPart].text);
+    console.log("The end");
+    while(validReplayAnswer == false)
+    {
+        let replayAnswer = input.question("Do you want to play again? \na. yes \nb. no \n");
+        if(replayAnswer == "a")
+        {
+            validReplayAnswer = true;
+        } else if(replayAnswer == "b")
+        {
+            validReplayAnswer = true;
+            replay = false;
+        } else
+        {
+            console.log("You can only answer with a or b");
+        }
+    }
+}
