@@ -226,15 +226,15 @@ let storyParts =
     },
     {
         text:"As you step into the chamber, you see a hulking, reptilian brute, covered in scales that shimmer with a metallic sheen. Its eyes glow with an eerie, otherworldly light, and its claws are sharp enough to cut through stone. There is smoke coming out its nostrils and mouth and the ground around this monstrosity is on fire.",
-        question:"a. attack its stomach \nb. attack its eyes \nc. turn back \n",
+        question:"a. attack its eyes \nb. attack its stomach \nc. turn back \n",
         answers:[
             {
                 answer:"a",
-                nextPart:21
+                nextPart:22
             },
             {
                 answer:"b",
-                nextPart:22
+                nextPart:21
             },
             {
                 answer:"c",
